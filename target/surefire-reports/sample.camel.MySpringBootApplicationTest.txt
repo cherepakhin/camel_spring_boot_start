@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: sample.camel.MySpringBootApplicationTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.322 s - in sample.camel.MySpringBootApplicationTest
