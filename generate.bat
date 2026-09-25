@@ -1,0 +1,1 @@
+mvn archetype:generate   -DgroupId="sample.camel" -DartifactId="reset-producer" -DarchetypeGroupId="org.apache.camel.archetypes" -DarchetypeArtifactId="camel-archetype-spring-boot" -DinteractiveMode=false
